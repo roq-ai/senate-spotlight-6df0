@@ -1,0 +1,1482 @@
+[
+  {
+    "news": [
+      {
+        "id": "a056f595-c05d-46b1-a5cc-d6c6ca3c6a62",
+        "title": "New Study Reveals Surprising Findings",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "created_at": "2023-09-11T14:06:26.971Z",
+        "updated_at": "2023-09-12T05:09:43.310Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9fc134fd-5a4e-4c86-aba1-4ffec5ca2bea",
+        "title": "Exciting Announcement for Our Community",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "created_at": "2023-09-11T10:39:52.906Z",
+        "updated_at": "2023-09-12T02:12:41.404Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e85f703d-3765-4815-9be5-45483530a257",
+        "title": "Breaking News: Major Discovery",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "created_at": "2023-09-11T23:30:28.081Z",
+        "updated_at": "2023-09-12T05:47:33.967Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4932ff00-332e-45df-9828-4bb58eac3622",
+        "title": "Important Update on Recent Events",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+        "created_at": "2023-09-11T17:34:53.661Z",
+        "updated_at": "2023-09-12T04:13:53.105Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "13ab564d-abc4-467a-bcdd-52cfa8f493ea",
+        "title": "Exclusive Interview with Renowned Expert",
+        "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "created_at": "2023-09-11T17:16:15.919Z",
+        "updated_at": "2023-09-11T21:55:28.870Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "job": [
+      {
+        "id": "eb7266fe-91f8-49a7-8c32-8b7d60715cc7",
+        "title": "Software Engineer",
+        "description": "We are seeking a highly skilled software engineer to join our development team.",
+        "status": "Full-time",
+        "created_at": "2023-09-11T17:11:57.569Z",
+        "updated_at": "2023-09-11T14:23:35.660Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "22793ea1-26a9-4f9f-aeb2-d2d14456883e",
+        "title": "Marketing Specialist",
+        "description": "Looking for a creative marketing specialist to drive brand awareness.",
+        "status": "Part-time",
+        "created_at": "2023-09-11T13:19:51.342Z",
+        "updated_at": "2023-09-11T09:08:31.678Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "06a2b2b8-fa04-4e05-af50-34073c5f3013",
+        "title": "Financial Analyst",
+        "description": "Join our finance team and analyze financial data to support decision-making.",
+        "status": "Contract",
+        "created_at": "2023-09-11T08:46:51.500Z",
+        "updated_at": "2023-09-11T14:48:20.206Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9681189a-b184-428f-b825-bd614f2e85f5",
+        "title": "Graphic Designer",
+        "description": "We are hiring a talented graphic designer to create visually appealing designs.",
+        "status": "Freelance",
+        "created_at": "2023-09-11T23:15:36.918Z",
+        "updated_at": "2023-09-12T06:14:06.458Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d859c9a0-f70c-4fa6-83da-99bc72b47619",
+        "title": "Project Manager",
+        "description": "Seeking an experienced project manager to oversee and deliver projects on time and within budget.",
+        "status": "Internship",
+        "created_at": "2023-09-12T06:40:36.397Z",
+        "updated_at": "2023-09-11T09:55:30.419Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9f10cf98-f0ed-46f3-a2a6-56edf9f65be2",
+        "email": "Lucas55@gmail.com",
+        "firstName": "Bo",
+        "lastName": "Bins",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34332473",
+        "tenantId": null
+      },
+      {
+        "reference": "a11a6f87-7345-449d-8cf6-9e0fe835be3a",
+        "email": "Grayce_Rath@yahoo.com",
+        "firstName": "Maxie",
+        "lastName": "Weissnat",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/534.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "437958a1-89df-4ec2-bc11-3ef6c22c61d9",
+        "email": "Lorenz26@gmail.com",
+        "firstName": "Elisha",
+        "lastName": "Schuster",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1188.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "46c5c709-c550-43d0-99b2-ad059fd8456b",
+        "email": "Enola_Rosenbaum20@hotmail.com",
+        "firstName": "Minerva",
+        "lastName": "Runolfsdottir",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89915496",
+        "tenantId": null
+      },
+      {
+        "reference": "ff483313-e7ce-421c-9b05-18a4ded29856",
+        "email": "Kayleigh.Batz43@hotmail.com",
+        "firstName": "Gabriel",
+        "lastName": "Waelchi",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18238864",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "news": [
+      {
+        "id": "e6a5f000-df92-4091-8d8c-1fa7310f17b4",
+        "title": "Breaking News: New Discovery in Space",
+        "content": "Scientists have made a groundbreaking discovery in deep space...",
+        "created_at": "2023-09-12T04:59:52.697Z",
+        "updated_at": "2023-09-12T05:42:15.228Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0d83274a-22b4-4f8f-aaeb-64a8a33afded",
+        "title": "Upcoming Event: Annual Charity Gala",
+        "content": "Join us for our annual charity gala to support a great cause...",
+        "created_at": "2023-09-11T12:37:18.326Z",
+        "updated_at": "2023-09-11T18:55:13.045Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cc586a79-01c6-4414-b20f-542ad7390f71",
+        "title": "Latest Update: COVID-19 Vaccination Drive",
+        "content": "The government has announced a new phase in the COVID-19 vaccination drive...",
+        "created_at": "2023-09-11T10:08:07.772Z",
+        "updated_at": "2023-09-11T20:43:56.230Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ba0771b8-e38b-4b55-9e4d-93c5e72e953c",
+        "title": "Innovation Spotlight: AI-powered Robotics",
+        "content": "A new AI-powered robotic system has revolutionized the manufacturing industry...",
+        "created_at": "2023-09-12T03:03:58.554Z",
+        "updated_at": "2023-09-11T08:07:34.297Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "740a743b-5af5-4074-a2b5-b9de9ba05b8f",
+        "title": "Community Outreach: Clean-up Drive Success",
+        "content": "Thanks to the efforts of our volunteers, the clean-up drive was a huge success...",
+        "created_at": "2023-09-11T09:37:23.619Z",
+        "updated_at": "2023-09-11T16:43:53.251Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "job": [
+      {
+        "id": "82b689a7-c262-485f-b858-5efaf69358cc",
+        "title": "Software Engineer",
+        "description": "We are seeking a skilled software engineer to join our development team...",
+        "status": "Open",
+        "created_at": "2023-09-11T18:00:25.739Z",
+        "updated_at": "2023-09-11T13:41:59.526Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "16f58174-20d7-4a0b-9e5e-27d356d3d233",
+        "title": "Marketing Specialist",
+        "description": "We are looking for a creative marketing specialist to promote our products...",
+        "status": "Closed",
+        "created_at": "2023-09-11T08:30:12.603Z",
+        "updated_at": "2023-09-12T03:55:41.004Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "011642e7-cc30-47d0-8898-76e52b3fbaa7",
+        "title": "Medical Doctor",
+        "description": "We have an opening for a medical doctor to join our dedicated team of healthcare professionals...",
+        "status": "Pending",
+        "created_at": "2023-09-12T01:26:56.607Z",
+        "updated_at": "2023-09-12T03:03:38.670Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0faceaf1-030b-451d-befd-442aa67b299d",
+        "title": "Financial Analyst",
+        "description": "We are hiring a financial analyst to support our investment strategies...",
+        "status": "Filled",
+        "created_at": "2023-09-11T18:49:41.705Z",
+        "updated_at": "2023-09-12T01:09:54.804Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "307fdd27-c9ce-4933-b549-cabc5bd3de74",
+        "title": "Project Manager",
+        "description": "We are seeking an experienced project manager to oversee our upcoming projects...",
+        "status": "Cancelled",
+        "created_at": "2023-09-11T18:57:50.131Z",
+        "updated_at": "2023-09-12T06:39:31.835Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "601f4a1f-4cd5-4d9e-ae7d-c9d13b8b60d1",
+        "email": "Malika.Maggio@hotmail.com",
+        "firstName": "Zita",
+        "lastName": "Cronin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/608.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b3ef0e4b-865a-4efc-a2e7-fa0a9fe8cc99",
+        "email": "Timothy93@hotmail.com",
+        "firstName": "Natalie",
+        "lastName": "Swift",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32620858",
+        "tenantId": null
+      },
+      {
+        "reference": "cd5ce9c7-1ea4-4b18-a5de-fa8c8cfa3c50",
+        "email": "Wilhelm70@gmail.com",
+        "firstName": "Sophie",
+        "lastName": "Stroman-Schneider",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/318.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "91c3f85a-ff24-476a-8759-fef79233c058",
+        "email": "Joy_Cole29@gmail.com",
+        "firstName": "Elliott",
+        "lastName": "Greenholt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70224656",
+        "tenantId": null
+      },
+      {
+        "reference": "3887ed93-78f0-46f2-aafd-fb249e43f0f2",
+        "email": "Conrad_Ankunding20@yahoo.com",
+        "firstName": "Colin",
+        "lastName": "Prosacco",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12949466",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "news": [
+      {
+        "id": "e4cde8c8-5e1f-4dfa-bcb3-b6d64e58529a",
+        "title": "New Product Launch",
+        "content": "We are excited to announce the launch of our latest product...",
+        "created_at": "2023-09-11T19:11:56.038Z",
+        "updated_at": "2023-09-12T01:53:29.829Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9fe1c34e-3844-4ddd-8334-a517ec45eaf3",
+        "title": "Upcoming Event Announcement",
+        "content": "Join us for an exclusive event showcasing our innovative solutions...",
+        "created_at": "2023-09-12T04:15:46.607Z",
+        "updated_at": "2023-09-11T18:56:46.988Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a53c5c49-c80a-4359-9a94-2fc2a294cb1e",
+        "title": "Industry Report Released",
+        "content": "Our latest industry report provides valuable insights into...",
+        "created_at": "2023-09-12T01:46:30.939Z",
+        "updated_at": "2023-09-12T02:40:15.625Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f22f17c7-0835-4a13-982d-6294166df6e8",
+        "title": "Company Expansion Plans",
+        "content": "We are thrilled to share our plans for expanding...",
+        "created_at": "2023-09-12T05:27:31.495Z",
+        "updated_at": "2023-09-11T23:36:30.291Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b98f0f7c-eccd-472d-9bfa-4a396c0c4826",
+        "title": "Community Outreach Program",
+        "content": "Our community outreach program aims to make a positive impact by...",
+        "created_at": "2023-09-11T19:27:15.827Z",
+        "updated_at": "2023-09-11T12:51:46.676Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "job": [
+      {
+        "id": "693c1f9e-5e98-427f-8d3e-77fc311f7bdc",
+        "title": "Software Engineer",
+        "description": "We are seeking a talented software engineer to join our team...",
+        "status": "Open",
+        "created_at": "2023-09-11T09:23:22.839Z",
+        "updated_at": "2023-09-11T09:29:38.755Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "194ebdfd-0c79-49c0-8311-eae56028b1de",
+        "title": "Marketing Manager",
+        "description": "The marketing manager will be responsible for developing and executing...",
+        "status": "Closed",
+        "created_at": "2023-09-12T02:23:07.017Z",
+        "updated_at": "2023-09-11T22:53:22.795Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3137d878-3d90-47eb-b606-acc038e20a01",
+        "title": "Sales Representative",
+        "description": "As a sales representative, you will be responsible for...",
+        "status": "Pending",
+        "created_at": "2023-09-11T13:40:47.469Z",
+        "updated_at": "2023-09-11T22:19:20.765Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "86cb9c13-ed5f-4255-ade6-3a4029b342ca",
+        "title": "Financial Analyst",
+        "description": "The financial analyst will play a key role in...",
+        "status": "Filled",
+        "created_at": "2023-09-11T13:18:16.751Z",
+        "updated_at": "2023-09-11T21:21:14.297Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "25b5e515-160f-41ab-aa05-3d45ea6a7e40",
+        "title": "Project Coordinator",
+        "description": "The project coordinator will support the planning and execution of...",
+        "status": "Cancelled",
+        "created_at": "2023-09-12T02:03:59.240Z",
+        "updated_at": "2023-09-11T10:09:56.076Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "07ba5f89-7aad-4bed-a6dd-420bbc41717d",
+        "email": "Mia.Paucek@yahoo.com",
+        "firstName": "Lavinia",
+        "lastName": "Ferry",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69357664",
+        "tenantId": null
+      },
+      {
+        "reference": "7507e2b8-0aa4-47ae-803f-a6d553273ce5",
+        "email": "Kianna63@hotmail.com",
+        "firstName": "Marley",
+        "lastName": "Hamill",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/351.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c3b8464f-db8f-4121-a0ba-cfb0365169bc",
+        "email": "Merritt81@yahoo.com",
+        "firstName": "Sasha",
+        "lastName": "Schinner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89282881",
+        "tenantId": null
+      },
+      {
+        "reference": "3e5750aa-6103-4d1a-b166-998c61b20e07",
+        "email": "Marcelo74@gmail.com",
+        "firstName": "Ken",
+        "lastName": "Hartmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9686539",
+        "tenantId": null
+      },
+      {
+        "reference": "bf74646d-626d-4550-b590-49c98f4bbc67",
+        "email": "Moriah20@gmail.com",
+        "firstName": "Elody",
+        "lastName": "Turcotte",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/440.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "news": [
+      {
+        "id": "d119c6ee-ef70-4be5-9853-4557fabfdd2b",
+        "title": "New Product Launch",
+        "content": "We are excited to announce the launch of our latest product.",
+        "created_at": "2023-09-11T18:11:19.942Z",
+        "updated_at": "2023-09-12T04:12:34.165Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "495c3cbd-8115-4961-9abd-511a9269934d",
+        "title": "Upcoming Event Announcement",
+        "content": "Save the date for our upcoming event.",
+        "created_at": "2023-09-11T12:12:21.069Z",
+        "updated_at": "2023-09-11T18:32:27.463Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dd28b27a-c165-4e80-8a91-facacb98bf86",
+        "title": "Industry Partnership Announcement",
+        "content": "We are proud to announce our new partnership.",
+        "created_at": "2023-09-11T15:10:51.605Z",
+        "updated_at": "2023-09-11T17:41:29.048Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e98fa28b-bef3-4708-b7ee-9f00e24af98d",
+        "title": "Company Expansion News",
+        "content": "We are expanding our operations to meet growing demand.",
+        "created_at": "2023-09-11T18:28:41.147Z",
+        "updated_at": "2023-09-11T19:26:14.142Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8b5cff4c-ae26-4079-819a-2ed65d16a693",
+        "title": "Research Study Results",
+        "content": "The results of our latest research study are now available.",
+        "created_at": "2023-09-12T02:19:33.700Z",
+        "updated_at": "2023-09-11T19:40:55.675Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "job": [
+      {
+        "id": "f3e0e2c8-8256-404b-80a2-74d1bf054276",
+        "title": "Software Engineer",
+        "description": "We are seeking a skilled software engineer to join our development team.",
+        "status": "Open",
+        "created_at": "2023-09-11T16:00:05.738Z",
+        "updated_at": "2023-09-11T19:35:03.754Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e11a1155-72e9-4bfb-b951-db64695f8844",
+        "title": "Marketing Specialist",
+        "description": "Join our marketing department and help drive our brand's success.",
+        "status": "Closed",
+        "created_at": "2023-09-12T01:06:48.275Z",
+        "updated_at": "2023-09-11T18:23:38.735Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "54171b64-a6f2-4de7-acc0-57f9c7551ebc",
+        "title": "Sales Representative",
+        "description": "Become a part of our sales team and help us grow our customer base.",
+        "status": "Pending",
+        "created_at": "2023-09-11T23:50:50.426Z",
+        "updated_at": "2023-09-12T03:14:02.878Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2ef70a60-5980-4f42-9f97-c28ae454e452",
+        "title": "Customer Support Analyst",
+        "description": "Provide exceptional customer support to our clients.",
+        "status": "Filled",
+        "created_at": "2023-09-12T03:32:41.721Z",
+        "updated_at": "2023-09-11T10:34:49.045Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "426715b6-d06c-43b0-9235-d6934f1d3fa1",
+        "title": "Data Analyst",
+        "description": "Utilize your analytical skills to uncover valuable insights from data.",
+        "status": "On Hold",
+        "created_at": "2023-09-11T23:16:01.842Z",
+        "updated_at": "2023-09-11T19:39:57.375Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2228e78d-088e-4408-a5bd-9d4f5bac9713",
+        "email": "Rowland_Rowe@gmail.com",
+        "firstName": "Princess",
+        "lastName": "Swift",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51562633",
+        "tenantId": null
+      },
+      {
+        "reference": "86cc091f-3f6f-4510-924b-33f956e8136c",
+        "email": "Bernita86@hotmail.com",
+        "firstName": "Tyrese",
+        "lastName": "Carroll",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17188493",
+        "tenantId": null
+      },
+      {
+        "reference": "58a5dea5-f322-4199-a4c3-8c291bb17780",
+        "email": "Ashly62@hotmail.com",
+        "firstName": "Ramon",
+        "lastName": "Koss",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/50.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d466521d-cc59-4a63-9c78-cc627c398a41",
+        "email": "Lottie43@hotmail.com",
+        "firstName": "Eula",
+        "lastName": "Mayert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/750.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0395a617-a25f-4384-aebd-c2e0bd759a76",
+        "email": "Gertrude_Fahey@gmail.com",
+        "firstName": "Ivah",
+        "lastName": "Brown",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/761.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "news": [
+      {
+        "id": "8922a38e-c302-40b4-a410-c0a3b5d892bc",
+        "title": "Breaking News: New Study Reveals Surprising Findings",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "created_at": "2023-09-11T21:47:36.311Z",
+        "updated_at": "2023-09-12T01:07:04.306Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c01fed19-8fb2-4a0a-b811-5cfd564b7394",
+        "title": "Upcoming Event: Join Us for an Exciting Workshop",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "created_at": "2023-09-12T03:49:46.123Z",
+        "updated_at": "2023-09-12T00:51:59.140Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fc6671c5-2c8e-41db-a13d-d9d1aaaecb70",
+        "title": "Latest Update: Important Announcement for Our Community",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "created_at": "2023-09-12T05:54:35.889Z",
+        "updated_at": "2023-09-11T19:59:49.513Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "49c9dc5a-9c50-4a37-ba96-76847618d0c5",
+        "title": "In Case You Missed It: Recap of Last Week's Event",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+        "created_at": "2023-09-11T23:11:43.781Z",
+        "updated_at": "2023-09-12T04:09:40.360Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e4c9d90e-7f0c-45e3-8d80-09068ada8194",
+        "title": "Exclusive Interview: Insights from Industry Experts",
+        "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "created_at": "2023-09-11T11:06:05.440Z",
+        "updated_at": "2023-09-11T21:11:17.441Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "job": [
+      {
+        "id": "46b8d537-a2c5-4b43-ae6f-1482d7885179",
+        "title": "Software Engineer",
+        "description": "We are seeking a skilled software engineer to join our development team.",
+        "status": "Open",
+        "created_at": "2023-09-11T11:51:12.882Z",
+        "updated_at": "2023-09-11T14:57:33.908Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2be07197-27b3-47e9-899c-895690a2ace8",
+        "title": "Marketing Specialist",
+        "description": "Join our marketing team and help drive brand awareness and customer engagement.",
+        "status": "Closed",
+        "created_at": "2023-09-11T12:36:13.761Z",
+        "updated_at": "2023-09-11T17:20:35.871Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "34e2dd1e-ff94-4ae4-93bf-cd288a8271be",
+        "title": "Research Analyst",
+        "description": "Conduct research and provide valuable insights to support decision-making.",
+        "status": "Pending",
+        "created_at": "2023-09-11T23:55:20.635Z",
+        "updated_at": "2023-09-12T00:54:18.922Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3de33543-08b3-4961-8865-79c130f73a50",
+        "title": "Project Manager",
+        "description": "Manage projects from initiation to completion, ensuring timely delivery and high quality.",
+        "status": "In Progress",
+        "created_at": "2023-09-11T11:48:47.599Z",
+        "updated_at": "2023-09-11T20:48:10.096Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5047fd1c-416d-4469-b33b-c3875f340251",
+        "title": "Sales Representative",
+        "description": "Develop and maintain relationships with clients, promoting our products and services.",
+        "status": "On Hold",
+        "created_at": "2023-09-11T10:16:49.341Z",
+        "updated_at": "2023-09-11T23:25:06.198Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "54dae5e1-44eb-4dbd-8303-d1407c25d3fd",
+        "email": "Raphael.Mayer@yahoo.com",
+        "firstName": "Rosalee",
+        "lastName": "Kertzmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15119032",
+        "tenantId": null
+      },
+      {
+        "reference": "ac5e2f22-1418-48ad-b5b2-8dde4c38fb13",
+        "email": "Alysa_Shanahan89@hotmail.com",
+        "firstName": "Baron",
+        "lastName": "Ebert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70033835",
+        "tenantId": null
+      },
+      {
+        "reference": "a751aff1-ba9d-465e-90f8-613c4c1c0268",
+        "email": "Dallin_Ullrich24@gmail.com",
+        "firstName": "Amparo",
+        "lastName": "Kemmer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40778541",
+        "tenantId": null
+      },
+      {
+        "reference": "fc9fe209-82cf-4c32-873a-a8bb74ac4ee2",
+        "email": "Henriette_Swaniawski@gmail.com",
+        "firstName": "Darryl",
+        "lastName": "Ziemann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1227.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5d4eda7e-2eb4-4f8e-b677-c2a3b8a90cd6",
+        "email": "Waldo_Hammes@yahoo.com",
+        "firstName": "Shea",
+        "lastName": "Koepp",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37722288",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "news": [
+      {
+        "id": "c65b23d8-c85d-4c43-a754-387c10c59cac",
+        "title": "New Study Reveals Surprising Health Benefits of Chocolate",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod velit vitae risus tristique, eget vulputate est tristique.",
+        "created_at": "2023-09-11T08:59:56.849Z",
+        "updated_at": "2023-09-11T18:13:01.886Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dac7a5ca-d6cd-40fe-a646-3ec0c65bdf0e",
+        "title": "Breaking News: World Leaders Gather for Climate Change Summit",
+        "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla facilisi.",
+        "created_at": "2023-09-12T04:01:08.172Z",
+        "updated_at": "2023-09-12T06:41:12.738Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ada1dc71-b222-4290-ad47-48a9d2328736",
+        "title": "Local Artist Wins Prestigious Art Award",
+        "content": "Fusce id dui in nunc feugiat efficitur. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+        "created_at": "2023-09-11T20:20:27.732Z",
+        "updated_at": "2023-09-12T04:36:30.586Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a6f412c8-15c1-4946-a7ec-9cf399968ecf",
+        "title": "Tech Giant Unveils Revolutionary New Product",
+        "content": "esse dolores expedita",
+        "created_at": "2023-09-11T17:15:29.221Z",
+        "updated_at": "2023-09-11T20:40:31.377Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9d1fd413-e5f6-496b-8c09-175f86fe1188",
+        "title": "Charity Gala Raises Millions for Children in Need",
+        "content": "saepe illum inventore",
+        "created_at": "2023-09-11T07:25:26.397Z",
+        "updated_at": "2023-09-11T20:18:20.185Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "job": [
+      {
+        "id": "1a4b8875-f411-4bbf-8461-78a51b2573fa",
+        "title": "Software Engineer",
+        "description": "We are seeking a highly skilled software engineer to join our dynamic team.",
+        "status": "Full-time",
+        "created_at": "2023-09-11T22:52:13.166Z",
+        "updated_at": "2023-09-11T09:01:11.590Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2ba2b6cf-f4a9-4210-951c-eedb3d2dca19",
+        "title": "Marketing Manager",
+        "description": "We are looking for a creative and strategic marketing manager to drive our brand's growth.",
+        "status": "Part-time",
+        "created_at": "2023-09-12T05:29:02.687Z",
+        "updated_at": "2023-09-11T10:31:46.521Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8051c82c-6b25-4123-8ef9-30cadf80d15f",
+        "title": "Sales Representative",
+        "description": "Join our sales team and help us expand our customer base.",
+        "status": "Contract",
+        "created_at": "2023-09-11T09:51:49.532Z",
+        "updated_at": "2023-09-11T20:52:43.187Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f61c9a69-ead5-4a70-940a-ab57e6d9fdd0",
+        "title": "Graphic Designer",
+        "description": "We are hiring a talented graphic designer to create visually stunning designs.",
+        "status": "Freelance",
+        "created_at": "2023-09-11T11:02:16.614Z",
+        "updated_at": "2023-09-11T21:15:21.870Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5f24b3c8-7a14-44fd-b6d3-946b4a2da210",
+        "title": "Data Analyst",
+        "description": "Seeking a detail-oriented data analyst to analyze and interpret complex data sets.",
+        "status": "Internship",
+        "created_at": "2023-09-11T10:36:26.150Z",
+        "updated_at": "2023-09-11T17:32:09.748Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "61cbc9db-0cee-4a48-9727-9a5f64246cd4",
+        "email": "Jarrod42@gmail.com",
+        "firstName": "Moses",
+        "lastName": "Lueilwitz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/547.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a47ca048-3ede-4ca8-bb5a-ba411464a953",
+        "email": "Stefanie.Glover14@hotmail.com",
+        "firstName": "Alexandre",
+        "lastName": "Farrell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/250.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f30f3540-34ca-4433-b9a0-708688847020",
+        "email": "Carmine.Homenick@yahoo.com",
+        "firstName": "Marc",
+        "lastName": "Waters",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46344563",
+        "tenantId": null
+      },
+      {
+        "reference": "6d44eaa3-32ba-4620-af61-72c54b0b17c6",
+        "email": "Yvette.Collier79@yahoo.com",
+        "firstName": "Glenna",
+        "lastName": "Tremblay",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1152.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ec66f560-0f2e-48d2-bf58-681825f7df8e",
+        "email": "Ila.Fisher@yahoo.com",
+        "firstName": "Turner",
+        "lastName": "Crooks",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7527043",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "news": [
+      {
+        "id": "9ed4d197-a4fb-46b2-b3e5-31cf79abe167",
+        "title": "New Study Reveals Surprising Results",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "created_at": "2023-09-11T23:50:55.973Z",
+        "updated_at": "2023-09-11T22:10:07.008Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a741d52-e713-4953-b604-2ebb10bebd6f",
+        "title": "Upcoming Event Announcement",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "created_at": "2023-09-11T16:40:17.378Z",
+        "updated_at": "2023-09-11T15:52:43.290Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7ebbee1a-9a32-4267-857c-1270c0f07f16",
+        "title": "Breaking News: Major Discovery",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "created_at": "2023-09-11T12:01:21.611Z",
+        "updated_at": "2023-09-11T22:37:48.023Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3aed79e1-5002-47e2-aad0-14c0c2f1332b",
+        "title": "Exclusive Interview with Industry Expert",
+        "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "created_at": "2023-09-12T02:46:10.794Z",
+        "updated_at": "2023-09-11T13:37:57.640Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "29fd30e4-ea73-4730-8713-bf3c36c780ce",
+        "title": "Important Update for Our Community",
+        "content": "numquam magnam reprehenderit",
+        "created_at": "2023-09-11T12:58:39.160Z",
+        "updated_at": "2023-09-11T06:52:32.428Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "job": [
+      {
+        "id": "00dbc5bd-4293-4190-b408-21568cf5ed20",
+        "title": "Software Engineer",
+        "description": "We are seeking a talented software engineer to join our team.",
+        "status": "Open",
+        "created_at": "2023-09-12T02:01:19.281Z",
+        "updated_at": "2023-09-12T00:50:23.069Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9aeb55b6-6bf7-49d2-a8d2-e790669d6fdf",
+        "title": "Marketing Specialist",
+        "description": "Join our marketing department and help drive brand awareness.",
+        "status": "Closed",
+        "created_at": "2023-09-11T13:44:29.718Z",
+        "updated_at": "2023-09-11T23:07:08.371Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "64579e62-0c4a-4f27-aa75-0b130c016124",
+        "title": "Financial Analyst",
+        "description": "Analyzing financial data to provide valuable insights for decision-making.",
+        "status": "Pending",
+        "created_at": "2023-09-11T21:22:40.251Z",
+        "updated_at": "2023-09-11T10:57:02.899Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4f893c3-d20f-4336-8bfc-c26e8b3844e2",
+        "title": "Nurse",
+        "description": "Provide compassionate care to patients in a fast-paced hospital environment.",
+        "status": "Filled",
+        "created_at": "2023-09-12T02:04:46.752Z",
+        "updated_at": "2023-09-11T22:19:40.095Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aa029839-aca3-4292-8bbd-1f447aa599bf",
+        "title": "Fashion Designer",
+        "description": "Design and create innovative fashion pieces using sustainable materials.",
+        "status": "Cancelled",
+        "created_at": "2023-09-11T14:30:04.594Z",
+        "updated_at": "2023-09-11T08:22:57.557Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "22d47225-52a2-440a-81a0-394b9385f74c",
+        "email": "Lisa37@hotmail.com",
+        "firstName": "Gerardo",
+        "lastName": "McLaughlin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/584.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c09fa8cb-4ef8-42e2-b375-4dba6e6d7def",
+        "email": "Wilma.Schoen@yahoo.com",
+        "firstName": "Alford",
+        "lastName": "O'Reilly",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/681.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9f220aac-e552-44a2-83a9-8f82da4f37f8",
+        "email": "Archibald.Nolan@hotmail.com",
+        "firstName": "Martin",
+        "lastName": "Gerlach",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91395165",
+        "tenantId": null
+      },
+      {
+        "reference": "2ba5c196-ecd5-4d13-ba23-7e62f35853b8",
+        "email": "Skye_Lindgren@gmail.com",
+        "firstName": "Mckenna",
+        "lastName": "Davis",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41168219",
+        "tenantId": null
+      },
+      {
+        "reference": "351c2357-5393-4e1e-b92c-b805827e2f9e",
+        "email": "Donnie_Dibbert63@gmail.com",
+        "firstName": "River",
+        "lastName": "O'Hara",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9800213",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "news": [
+      {
+        "id": "f8b9f6a8-ed1c-4888-9791-4e1d138a49cd",
+        "title": "New Study Reveals Surprising Findings on Climate Change",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla gravida justo ac semper fringilla. Fusce id aliquam nisi, sit amet feugiat lorem. Vestibulum sit amet ultricies tellus. Aliquam vitae risus justo.",
+        "created_at": "2023-09-11T18:13:23.686Z",
+        "updated_at": "2023-09-11T15:12:19.981Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2c40a260-7bb6-4579-8528-e5816cef7ea5",
+        "title": "Exciting Product Launch Event Announced",
+        "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam iaculis, metus non vulputate pellentesque, metus orci eleifend ligula, a ultricies nisi mauris sed lectus.",
+        "created_at": "2023-09-11T09:45:59.855Z",
+        "updated_at": "2023-09-11T14:32:44.813Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6facd9d2-fd38-4940-aabe-2d0a8c2440cd",
+        "title": "Local Community Comes Together to Support Food Drive",
+        "content": "Sed tincidunt, mi sed tempor tristique, justo ligula pellentesque arcu, vitae ullamcorper mauris tortor at tellus. Sed id libero vel mi fermentum cursus.",
+        "created_at": "2023-09-12T00:38:39.757Z",
+        "updated_at": "2023-09-11T18:19:08.403Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d299017e-c118-4ec2-8a59-657f30eedf43",
+        "title": "Breaking News: Major Breakthrough in Cancer Research",
+        "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin ultricies metus nec dolor venenatis, id eleifend justo congue.",
+        "created_at": "2023-09-11T13:16:08.895Z",
+        "updated_at": "2023-09-11T23:59:48.855Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b9fba3b8-6e0d-4b85-80aa-41adbbcfac67",
+        "title": "Celebrity Chef Shares Exclusive Recipe for Healthy Living",
+        "content": "Suspendisse potenti. Aliquam erat volutpat. Nunc auctor, felis in cursus feugiat, ex lorem consectetur tortor, id iaculis lacus mi id nunc.",
+        "created_at": "2023-09-11T13:29:59.409Z",
+        "updated_at": "2023-09-11T22:54:46.317Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "job": [
+      {
+        "id": "ca9b9401-23b5-4855-bb76-4aaa46659353",
+        "title": "Software Engineer",
+        "description": "We are seeking a highly skilled Software Engineer to join our dynamic team. The ideal candidate should have experience in full-stack development and be proficient in multiple programming languages.",
+        "status": "Open",
+        "created_at": "2023-09-12T04:39:13.336Z",
+        "updated_at": "2023-09-12T04:18:30.106Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a36f343e-ee1c-40c6-b7ba-f8c2e7ed37eb",
+        "title": "Marketing Manager",
+        "description": "We are looking for a talented Marketing Manager to develop and implement effective marketing strategies. The candidate should have strong analytical skills and a proven track record in driving business growth.",
+        "status": "Closed",
+        "created_at": "2023-09-11T20:32:02.404Z",
+        "updated_at": "2023-09-11T09:24:04.007Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6482fecc-9f5b-4170-a2e0-b138eddcfba2",
+        "title": "Financial Analyst",
+        "description": "We are hiring a Financial Analyst to provide financial planning and analysis support. The candidate should have a solid understanding of financial principles and excellent problem-solving abilities.",
+        "status": "Pending",
+        "created_at": "2023-09-11T22:24:32.801Z",
+        "updated_at": "2023-09-11T17:37:08.461Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "29f18d76-53ac-4c80-996a-c82eaf5fbf4d",
+        "title": "Registered Nurse",
+        "description": "We have an opening for a Registered Nurse to join our dedicated team of healthcare professionals. The candidate should have a valid nursing license and strong clinical skills.",
+        "status": "Filled",
+        "created_at": "2023-09-11T13:35:09.242Z",
+        "updated_at": "2023-09-11T23:13:08.094Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee671e0e-cae4-4995-b3b6-4cccb7244eb9",
+        "title": "Fashion Designer",
+        "description": "We are seeking a creative and innovative Fashion Designer to join our design team. The candidate should have a strong sense of style and be proficient in design software.",
+        "status": "Cancelled",
+        "created_at": "2023-09-11T21:40:36.328Z",
+        "updated_at": "2023-09-11T08:34:48.435Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8c0c4227-f986-42a3-baab-bcaeb8e9a9cb",
+        "email": "Violette.Stiedemann41@hotmail.com",
+        "firstName": "Dewayne",
+        "lastName": "McClure",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16809845",
+        "tenantId": null
+      },
+      {
+        "reference": "27ea2cd3-9aab-4ccc-af83-bc098baa1672",
+        "email": "Ethel_Koepp@hotmail.com",
+        "firstName": "Kurt",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57275606",
+        "tenantId": null
+      },
+      {
+        "reference": "6ff557e0-3687-471d-a394-8cb9cedba535",
+        "email": "Nathan66@yahoo.com",
+        "firstName": "Rahsaan",
+        "lastName": "Turner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43160973",
+        "tenantId": null
+      },
+      {
+        "reference": "f6d5df6b-3a89-4bb6-97e2-3703715e4d07",
+        "email": "Sydney_Walker4@hotmail.com",
+        "firstName": "Zita",
+        "lastName": "Turner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/758.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cfdcc919-d383-4cbf-a5f8-1175cf474e82",
+        "email": "Lucious_Volkman22@gmail.com",
+        "firstName": "Roger",
+        "lastName": "Ankunding",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/732.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "news": [
+      {
+        "id": "4900304e-0a22-4cb6-bf2b-987f3864435a",
+        "title": "New Study Reveals Surprising Findings",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "created_at": "2023-09-11T09:17:38.627Z",
+        "updated_at": "2023-09-11T18:05:31.928Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "962b0a1d-24b6-479e-bd65-73ade7010f19",
+        "title": "Exciting Product Launch Announcement",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "created_at": "2023-09-11T22:01:31.611Z",
+        "updated_at": "2023-09-12T00:12:18.366Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "10ed51ec-1157-4523-93ac-61951592a072",
+        "title": "Important Policy Changes",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "created_at": "2023-09-12T03:52:27.426Z",
+        "updated_at": "2023-09-12T06:18:08.847Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "adeddd79-a0b5-4786-8cf0-93c410fc443b",
+        "title": "Exclusive Interview with Industry Expert",
+        "content": "iste temporibus at",
+        "created_at": "2023-09-11T13:20:16.254Z",
+        "updated_at": "2023-09-11T21:50:43.346Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c632c392-7bab-484a-9486-e1a3ca5d841f",
+        "title": "Upcoming Event to Watch Out For",
+        "content": "ducimus quia repellat",
+        "created_at": "2023-09-11T07:35:11.440Z",
+        "updated_at": "2023-09-11T20:50:22.399Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "job": [
+      {
+        "id": "4da96aa0-e252-4358-b09c-a84959faa003",
+        "title": "Software Engineer",
+        "description": "We are seeking a talented software engineer to join our dynamic team.",
+        "status": "Open",
+        "created_at": "2023-09-11T08:16:12.750Z",
+        "updated_at": "2023-09-11T15:11:56.851Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fc1d1f91-de68-42b6-90b0-feccf8233afa",
+        "title": "Marketing Manager",
+        "description": "Looking for an experienced marketing manager to lead our marketing efforts.",
+        "status": "Closed",
+        "created_at": "2023-09-11T11:15:09.613Z",
+        "updated_at": "2023-09-11T21:08:11.936Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bfda6495-85b9-4885-9686-c91520db7a5e",
+        "title": "Financial Analyst",
+        "description": "Join our finance team and analyze financial data to support decision-making.",
+        "status": "Pending",
+        "created_at": "2023-09-11T08:56:46.941Z",
+        "updated_at": "2023-09-12T04:50:19.844Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9948e447-1e00-490c-a3f7-3ac4a2671393",
+        "title": "Graphic Designer",
+        "description": "We are hiring a creative graphic designer to develop visually appealing designs.",
+        "status": "Filled",
+        "created_at": "2023-09-11T08:35:17.303Z",
+        "updated_at": "2023-09-11T09:34:29.625Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c98317d9-88d7-4ce4-8f86-b7f0eebe7d7c",
+        "title": "Operations Coordinator",
+        "description": "Seeking an organized operations coordinator to ensure smooth day-to-day operations.",
+        "status": "Cancelled",
+        "created_at": "2023-09-11T11:49:42.006Z",
+        "updated_at": "2023-09-12T03:11:54.490Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b38dc125-1d84-43eb-b8cd-4b273a0ef733",
+        "email": "Melody.Larson@gmail.com",
+        "firstName": "Emil",
+        "lastName": "Crooks",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/998.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "34f856ee-47b8-454e-84c7-d265e908d205",
+        "email": "Xavier94@hotmail.com",
+        "firstName": "Charlie",
+        "lastName": "Jast",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1072.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "518603b8-c1b6-4419-aa1c-e3ce36feb423",
+        "email": "Judy_Hickle@hotmail.com",
+        "firstName": "Bell",
+        "lastName": "Grimes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/405.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a0dd9c7b-9177-442c-b707-27af0c6be928",
+        "email": "Kelly.Rice-Witting@hotmail.com",
+        "firstName": "Bette",
+        "lastName": "Tromp",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63719093",
+        "tenantId": null
+      },
+      {
+        "reference": "a2f40fd8-69e5-48fc-9169-ab7fb3298d4f",
+        "email": "Frederique80@yahoo.com",
+        "firstName": "Elza",
+        "lastName": "Kling",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91978250",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "news": [
+      {
+        "id": "d030b36d-d5fe-4408-92ab-aa309d79d03d",
+        "title": "New Study Reveals Surprising Findings",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "created_at": "2023-09-11T17:01:19.800Z",
+        "updated_at": "2023-09-11T09:35:25.092Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "28fb7ce1-8663-4868-b348-886338811ab8",
+        "title": "Upcoming Event Announcement",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "created_at": "2023-09-12T03:30:10.017Z",
+        "updated_at": "2023-09-11T19:42:24.892Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c286694a-dbe8-48a1-b980-357f955e0067",
+        "title": "Important Update for Customers",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "created_at": "2023-09-11T22:14:28.762Z",
+        "updated_at": "2023-09-11T23:35:01.594Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "45ba1c89-bc4c-44eb-8c02-05841c82ce04",
+        "title": "Breaking News: Major Discovery",
+        "content": "Et harum quidem rerum facilis est et expedita distinctio.",
+        "created_at": "2023-09-12T03:30:41.697Z",
+        "updated_at": "2023-09-11T21:43:16.736Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df66722b-3967-4d36-b1cd-dec9a4cdb6af",
+        "title": "Exclusive Interview with Industry Expert",
+        "content": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.",
+        "created_at": "2023-09-11T20:43:43.367Z",
+        "updated_at": "2023-09-12T03:22:59.804Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "job": [
+      {
+        "id": "7056bfe9-6b26-4db9-8d24-57a9c222b92a",
+        "title": "Software Engineer",
+        "description": "We are seeking a highly skilled software engineer to join our development team.",
+        "status": "Open",
+        "created_at": "2023-09-11T11:52:20.128Z",
+        "updated_at": "2023-09-12T06:36:29.209Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e99996ee-bf19-4182-b4cb-9e2c351efd19",
+        "title": "Marketing Manager",
+        "description": "The marketing manager will be responsible for developing and implementing marketing strategies.",
+        "status": "Closed",
+        "created_at": "2023-09-11T23:47:26.325Z",
+        "updated_at": "2023-09-12T04:52:21.618Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "db21aac5-dfe2-4a1e-adb6-537adae46a3c",
+        "title": "Financial Analyst",
+        "description": "The financial analyst will analyze financial data and provide insights to support decision-making.",
+        "status": "Pending",
+        "created_at": "2023-09-11T15:33:20.857Z",
+        "updated_at": "2023-09-11T16:52:07.089Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6e1dcdd6-3429-4ad8-bff3-26cb911845d8",
+        "title": "Operations Coordinator",
+        "description": "The operations coordinator will oversee daily operations and ensure efficiency.",
+        "status": "Filled",
+        "created_at": "2023-09-12T06:09:56.875Z",
+        "updated_at": "2023-09-11T18:59:51.611Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "472e6757-9ff2-444d-8e92-26e5340b4514",
+        "title": "Sales Representative",
+        "description": "The sales representative will be responsible for generating new business and maintaining client relationships.",
+        "status": "Cancelled",
+        "created_at": "2023-09-11T16:25:45.223Z",
+        "updated_at": "2023-09-11T08:15:07.434Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fee995d1-40f3-4d53-962c-e41b0c2c3a20",
+        "email": "Jacky_Hane32@hotmail.com",
+        "firstName": "Prudence",
+        "lastName": "Skiles",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58093167",
+        "tenantId": null
+      },
+      {
+        "reference": "9ba46cf3-b9c3-4867-af24-f0d683b81966",
+        "email": "Mazie.Hand@yahoo.com",
+        "firstName": "Javon",
+        "lastName": "Thompson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/390.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4aed39bd-1ea4-44bc-8d20-fad84a97da4d",
+        "email": "Francis54@yahoo.com",
+        "firstName": "Khalid",
+        "lastName": "Jakubowski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95915476",
+        "tenantId": null
+      },
+      {
+        "reference": "8679cd38-a18a-4685-826e-7bddca4d5121",
+        "email": "Juana87@hotmail.com",
+        "firstName": "Isadore",
+        "lastName": "Wintheiser",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1081.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "85050563-439b-421f-b811-e18beee1144f",
+        "email": "Moises54@gmail.com",
+        "firstName": "Jairo",
+        "lastName": "Considine",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/564.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
